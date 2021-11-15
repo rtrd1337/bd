@@ -1,0 +1,14 @@
+﻿  Console Application Database.cpp
+C:\Users\wda-w\source\repos\Console Application Database\Console Application Database\Console Application Database.cpp(256,28): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\wda-w\source\repos\Console Application Database\Console Application Database\Console Application Database.cpp(433,8): warning C4102: 'loading': unreferenced label
+C:\Users\wda-w\source\repos\Console Application Database\Console Application Database\Console Application Database.cpp(538,10): warning C4129: 'C': unrecognized character escape sequence
+C:\Users\wda-w\source\repos\Console Application Database\Console Application Database\Console Application Database.cpp(547,8): warning C4102: 'loading': unreferenced label
+C:\Users\wda-w\source\repos\Console Application Database\Console Application Database\Console Application Database.cpp(679,8): warning C4102: 'loading': unreferenced label
+C:\Users\wda-w\source\repos\Console Application Database\Console Application Database\Console Application Database.cpp(1407,8): warning C4102: 'loading': unreferenced label
+C:\Users\wda-w\source\repos\Console Application Database\Console Application Database\Console Application Database.cpp(1459,8): warning C4102: 'loading': unreferenced label
+C:\Users\wda-w\source\repos\Console Application Database\Console Application Database\Console Application Database.cpp(1616,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wda-w\source\repos\Console Application Database\Console Application Database\Console Application Database.cpp(1671,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wda-w\source\repos\Console Application Database\Console Application Database\Console Application Database.cpp(2041,8): warning C4102: 'loading': unreferenced label
+C:\Users\wda-w\source\repos\Console Application Database\Console Application Database\Console Application Database.cpp(2100,8): warning C4102: 'loading': unreferenced label
+C:\Users\wda-w\source\repos\Console Application Database\Console Application Database\Console Application Database.cpp(2247,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Console Application Database.vcxproj -> C:\Users\wda-w\source\repos\Console Application Database\Debug\Console Application Database.exe
